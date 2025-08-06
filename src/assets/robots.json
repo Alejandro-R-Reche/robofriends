@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Robo1",
+        "email": "Type A",
+        "status": "active"
+    },
+    {
+        "name": "Robo2",
+        "email": "Type B",
+        "status": "inactive"
+    },
+    {
+        "name": "Robo3",
+        "email": "Type C",
+        "status": "active"
+    }
+]
